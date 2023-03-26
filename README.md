@@ -21,6 +21,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
 </div>
+  
+  
 ---
 
 ### :woman_technologist: About Me :
@@ -29,7 +31,6 @@
  🌱 I’m currently learning back-end development</br>
  💞️ I’m looking to collaborate on web dev</br>
  📫 How to reach me hembee999@gmail.com +234 8117397781
-
 
 ---
 

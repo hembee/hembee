@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> I am a Full Stack Developer from Nigeria.
+- 🥰 I am a Full Stack Developer from Nigeria.
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on web dev
@@ -54,7 +54,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hembee&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hembee&theme=dark&background=000000)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hembee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 

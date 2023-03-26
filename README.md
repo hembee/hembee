@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @hembee
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning back-end development
+- 💻 Aspiring Full stack developer
 - 💞️ I’m looking to collaborate on web dev
-- 📫 How to reach me hembee999@gmail.com
+- 📫 How to reach me hembee999@gmail.com +234 8117397781
 
 <!---
 hembee/hembee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

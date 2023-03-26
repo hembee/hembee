@@ -26,7 +26,7 @@
 ### :woman_technologist: About Me :
  🥰 I am a Full Stack Developer from Nigeria.</br>
  👀 I’m interested in learning new things</br>
- 🌱 I’m currently learning back-end development</br></br>
+ 🌱 I’m currently learning back-end development</br>
  💞️ I’m looking to collaborate on web dev</br>
  📫 How to reach me hembee999@gmail.com +234 8117397781
 
